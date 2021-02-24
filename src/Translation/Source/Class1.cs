@@ -1,4 +1,4 @@
-๏ปฟusing System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -6,6 +6,6 @@ namespace FastExperience.Tools.Translation
 {
     class Class1
     {
-       //ุงุฑุณูุงู ููุงุญ ุณูุด ุชุดู ุงุก ุคููุฆูุก ุคุฎูุถ
+       //ว?ไ ใสไ ศว อัๆÝ Ýวัำ? ฯั ีÝอๅ ว? ศว ฯ ีÝอๅ 1256 ไๆิสๅ ิฯๅ
     }
 }
